@@ -11,7 +11,7 @@
 
 **굵게쓰기**  
 
-▪ [링크](http://example.com "링크제목").  
+[링크](http://example.com "링크제목").  
 
 [링크1][1] 과 [링크2][2].  
 [1]: http://www.naver.com "네이버"  
